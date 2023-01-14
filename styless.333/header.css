@@ -1,0 +1,61 @@
+.lift-part{
+margin-left: 15px;
+ color: white; 
+}
+.right-part{
+    margin-right: 20px;
+   
+
+}
+.middle-part{
+    
+    background-color: white;
+    margin-right: 25px;
+    display: flex;
+    border-left: 20px;
+
+}
+
+.search-icon{
+    height: 24px;
+    width: 22px;
+    background-color: rgb(181, 176, 176);
+    border: 1px;
+    border-style: solid;
+}
+.right-part1{
+    color: white;
+}
+.text-design{
+    text-align: right;
+    margin-right: 10px;
+    background-color: white;
+    
+    
+}
+.head-1{
+    border-left: 200px;
+    background-color: brown;
+    text-align: right;
+
+   
+}
+
+.contacts{
+    background-color: rgb(25, 135, 213);
+    height: 100px;
+}
+.footer{
+    background-color: rgb(209, 214, 217);
+    height: 200px;
+}
+.address-1{
+    margin-right: 20px ;
+    
+ 
+}
+.clock-1{
+    margin-left: 20px;
+}
+
+   
